@@ -48,7 +48,6 @@ A documentação do projeto contém:
 * Justificativa;
 * Descrição da solução;
 * Fluxogramas;
-* Pseudocódigos;
 * Requisitos funcionais e não funcionais;
 * Planejamento das sprints.
 
